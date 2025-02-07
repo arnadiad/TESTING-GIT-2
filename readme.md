@@ -1,4 +1,4 @@
 ini aadalah tes main
 
 
-ini nambahin readmi dari branch orang lain
+ini nambahin readme.md dari branch saya
